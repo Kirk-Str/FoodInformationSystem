@@ -1,6 +1,6 @@
 # Food Information System
-# Best Food Information System - A C++ Food Ordering Syetem
-# 2016-01-29
+Best Food Information System - A C++ Food Ordering Syetem
+2016-01-29
 
 This project is designed and developed for a collage assignment. As assignment's senario suggests,
 It provides solution to a bakery known as Best Food Bakery. It provides solution to their day to day activity
