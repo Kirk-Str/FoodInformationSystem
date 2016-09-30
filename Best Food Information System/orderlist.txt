@@ -1,0 +1,4 @@
+mila;M;2016/5/17 17:48;Wood Apple Juice - Beverage;Wood Apple Juice is made out of Wood Apple from Tropic Forest.:5,Coffee - Beverage;Drink consisting of an infusion of the roasted and ground or crushed seeds of the coffee tree.:5,Mango Juice - Beverage;Mango Juice is made out of fresh mangos grown from organic native asian trees.:1,Avacado Juice - Beverage;Avacado Juice is made out of fresh Avacado Tree grown from organic native asian trees.:3,;Holiday Events:REQUEST SENT,
+k;M;2016/5/17 17:49;Chocalate of Donut;Ring-shaped cake of sweetened dough fried in deep fat. Usually comes with variety of toppings like chocolate, Springles, Icing sugar.:2,;Holiday Events:REQUEST SENT,
+cca;G;2016/5/17 17:49;Milk Rice; Mile Rice is a treditional Srilankan dish that rice cooked with mile, tastes sweet.:1,;Holiday Events:REQUEST SENT,
+Robert Downey Jr.;G;2016/5/17 17:50;;Birthday Parties:REQUEST SENT,

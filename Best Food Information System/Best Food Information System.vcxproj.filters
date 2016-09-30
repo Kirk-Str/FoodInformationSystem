@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Database">
+      <UniqueIdentifier>{78074ee6-1659-48fc-9c0a-10a6923b9434}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Screen shot">
+      <UniqueIdentifier>{d5bc04d9-6a28-44e8-bfc0-113a8822b8f4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Database\catering.txt">
+      <Filter>Source Files\Database</Filter>
+    </Text>
+    <Text Include="Database\menu.txt">
+      <Filter>Source Files\Database</Filter>
+    </Text>
+    <Text Include="Database\orderlist - Copy.txt">
+      <Filter>Source Files\Database</Filter>
+    </Text>
+    <Text Include="Database\orderlist.txt">
+      <Filter>Source Files\Database</Filter>
+    </Text>
+    <Text Include="Database\services.txt">
+      <Filter>Source Files\Database</Filter>
+    </Text>
+    <Text Include="Database\users.txt">
+      <Filter>Source Files\Database</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Screen shots\Admin Home Menu.png">
+      <Filter>Source Files\Screen shot</Filter>
+    </Image>
+    <Image Include="Screen shots\Application Login with password.png">
+      <Filter>Source Files\Screen shot</Filter>
+    </Image>
+    <Image Include="Screen shots\Application Login.png">
+      <Filter>Source Files\Screen shot</Filter>
+    </Image>
+    <Image Include="Screen shots\Guest Catering Request.png">
+      <Filter>Source Files\Screen shot</Filter>
+    </Image>
+    <Image Include="Screen shots\Guest Home View.png">
+      <Filter>Source Files\Screen shot</Filter>
+    </Image>
+    <Image Include="Screen shots\Guest Home.png">
+      <Filter>Source Files\Screen shot</Filter>
+    </Image>
+    <Image Include="Screen shots\Guest Meal Orders.png">
+      <Filter>Source Files\Screen shot</Filter>
+    </Image>
+    <Image Include="Screen shots\Member Catering Requests.png">
+      <Filter>Source Files\Screen shot</Filter>
+    </Image>
+    <Image Include="Screen shots\Member Help.png">
+      <Filter>Source Files\Screen shot</Filter>
+    </Image>
+    <Image Include="Screen shots\Member Home.png">
+      <Filter>Source Files\Screen shot</Filter>
+    </Image>
+    <Image Include="Screen shots\Member Meal Orders.png">
+      <Filter>Source Files\Screen shot</Filter>
+    </Image>
+    <Image Include="Screen shots\Member Order Confirmation.png">
+      <Filter>Source Files\Screen shot</Filter>
+    </Image>
+    <Image Include="Screen shots\User Creation Role Selection.png">
+      <Filter>Source Files\Screen shot</Filter>
+    </Image>
+    <Image Include="Screen shots\User Creation Role Username n password finished.png">
+      <Filter>Source Files\Screen shot</Filter>
+    </Image>
+    <Image Include="Screen shots\User Creation Role Username n password.png">
+      <Filter>Source Files\Screen shot</Filter>
+    </Image>
+    <Image Include="Screen shots\Guest Food &amp; Beverage Information.png">
+      <Filter>Source Files\Screen shot</Filter>
+    </Image>
+    <Image Include="Screen shots\Food Orders &amp; Catering Requests Detail.png">
+      <Filter>Source Files\Screen shot</Filter>
+    </Image>
+    <Image Include="Screen shots\Food Orders &amp; Catering Requests.png">
+      <Filter>Source Files\Screen shot</Filter>
+    </Image>
+    <Image Include="Screen shots\Wrong username &amp; Password.png">
+      <Filter>Source Files\Screen shot</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

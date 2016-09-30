@@ -1,0 +1,21 @@
+Wood Apple Juice - Beverage;Wood Apple Juice is made out of Wood Apple from Tropic Forest.
+Pasta;Unleavened dough, made with wheat or other flour, water, and sometimes eggs, that is molded into any of a variety of shapes and boiled.
+Coffee - Beverage;Drink consisting of an infusion of the roasted and ground or crushed seeds of the coffee tree.
+Pizza;A baked pie of Italian origin consisting of a shallow breadlike crust covered with toppings such as seasoned tomato sauce, cheese, or sausage.
+Mango Juice - Beverage;Mango Juice is made out of fresh mangos grown from organic native asian trees.
+Avacado Juice - Beverage;Avacado Juice is made out of fresh Avacado Tree grown from organic native asian trees.
+Chocalate of Donut;Ring-shaped cake of sweetened dough fried in deep fat. Usually comes with variety of toppings like chocolate, Springles, Icing sugar.
+Chicken Wrap;Chicken fried with busicut power and tastes like Crispy
+Milk Rice; Mile Rice is a treditional Srilankan dish that rice cooked with mile, tastes sweet.
+Chines Noodles;Chines style noodles.
+Wood Apple Juice - Beverage;Wood Apple Juice is made out of Wood Apple from Tropic Forest.
+Pasta;Unleavened dough, made with wheat or other flour, water, and sometimes eggs, that is molded into any of a variety of shapes and boiled.
+Coffee - Beverage;Drink consisting of an infusion of the roasted and ground or crushed seeds of the coffee tree.
+Pizza;A baked pie of Italian origin consisting of a shallow breadlike crust covered with toppings such as seasoned tomato sauce, cheese, or sausage.
+Mango Juice - Beverage;Mango Juice is made out of fresh mangos grown from organic native asian trees.
+Avacado Juice - Beverage;Avacado Juice is made out of fresh Avacado Tree grown from organic native asian trees.
+Chocalate of Donut;Ring-shaped cake of sweetened dough fried in deep fat. Usually comes with variety of toppings like chocolate, Springles, Icing sugar.
+Chicken Wrap;Chicken fried with busicut power and tastes like Crispy
+Milk Rice;Mile Rice is a treditional Srilankan dish that rice cooked with mile, tastes sweet.
+Chines Noodles;Chines style noodles.
+Sushi; Sushi is a japanese treditional fish role.
